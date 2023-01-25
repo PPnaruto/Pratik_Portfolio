@@ -19,6 +19,16 @@ const ProjectsData = [
     link: "https://lucky-dasik-7d7052.netlify.app/",
     // demo: "",
   },
+  {
+    id: 3,
+    name: "1-mg Clone",
+    image: "./images/1mg_gif.gif",
+    description:
+      "Tata 1mg is consumer health platform. This site offer a various medicines of almost all brands so user can choose as per their wish. Through this website, we want to make healthcare accessible, understandable and affordable for a billion Indian. User can buy medicines as per their need since we have provided the medicines in categories.(E.g. Diabetes patient can search their medicines in diabetes section). Tech Stack -  HTML, CSS, JAVASCRIPT and JSON",
+    github: "https://github.com/PPnaruto/1mg_Clone",
+    link: "https://1mg-clone-react.netlify.app/",
+    // demo: "",
+  },
   
 ];
 
