@@ -32,7 +32,7 @@ function About() {
             </a>
               </button>
               <button className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-              <a className="hover:text-white" href="https://drive.google.com/file/d/13rwfNn_yVxYbL3HaMimprquKX54XlK_q/view?usp=share_link" target="_blank" rel="noopener noreferrer">
+              <a className="hover:text-white" href="https://drive.google.com/file/d/1dWOe7wKXt5qwRp6H4MaBTSa2-Reb42eL/view?usp=sharing" target="_blank" rel="noopener noreferrer">
               Download Resume 🖨️
             </a>
                 

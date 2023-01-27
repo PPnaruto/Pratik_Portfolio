@@ -18,7 +18,7 @@ function Contact() {
                 <button className="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
                   <a
                     className="hover:text-white"
-                    href="https://drive.google.com/file/d/13rwfNn_yVxYbL3HaMimprquKX54XlK_q/view?usp=share_link"
+                    href="https://drive.google.com/file/d/1dWOe7wKXt5qwRp6H4MaBTSa2-Reb42eL/view?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
